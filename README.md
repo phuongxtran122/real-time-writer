@@ -1,7 +1,8 @@
 # real-time-writer
 Multiple clients can edit text in real time.
 The server broadcasts changes to all clients.
-This project utilize websocket to send and receive messages from client and server
+This project utilize websocket to send and receive messages from client and server.
+
 To run server:
   node handshake.js
 
