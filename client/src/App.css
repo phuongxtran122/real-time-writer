@@ -1,7 +1,11 @@
 .App {
+  color: rgb(128, 152, 172);
   text-align: center;
-}
 
+}
+body{
+  background-color: rgb(17, 17, 20);
+}
 .container{
   padding-top: 5%;
   padding-left: 10%;
@@ -10,16 +14,19 @@
   text-align: center;
 }
 .title{
+  color: aliceblue;
   padding-top: 5%;
   text-align: center;
   font-size: xx-large;
 
 }
 .text-box{
-  background-color: rgb(243, 245, 235);
+  background-color: rgb(31, 33, 45);
   border-radius: 1%;
   padding: 1%;
-  width: 80%;
-  height: 100vw;
+  width: 90%;
+  height: 43vw;
   font-size: 100%;
+  color: aliceblue;
+  border-color: rgb(105, 186, 148);
 }
