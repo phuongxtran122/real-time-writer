@@ -42,11 +42,16 @@ class App extends Component {
   render(){
     return (
       <div> 
-        <input
+        <div className='title'>Start Typing</div>
+        <div className='App'>...</div>
+        <div className='container'>
+          <textarea className='text-box'
           type="text"
           value={this.state.value}
           onChange={this.handleEdit}
-          ></input>
+
+          />
+        </div>
       </div>
     );
   }
