@@ -10,5 +10,7 @@ To run client(s):
   npm start
   
 Future implementations:
+
   Show users id currently editing the textbox.
+  
   Show which user made which changes
